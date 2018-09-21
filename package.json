@@ -2,7 +2,9 @@
   "name": "new_chat",
   "private": true,
   "dependencies": {
-    "@rails/webpacker": "3.5"
+    "@rails/webpacker": "3.5",
+    "actioncable": "^5.2.1",
+    "postcss-nested": "^4.1.0"
   },
   "devDependencies": {
     "webpack-dev-server": "2.11.2"
